@@ -1,7 +1,7 @@
 {
   "name": "politics-third-arrow-gitbook",
   "version": "0.0.1",
-  "description": "社民黨政綱第三箭",
+  "description": "社民黨政綱第三箭：匡正稅制",
   "private": true,
   "devDependencies": {
     "gitbook": "^1.5.0",
